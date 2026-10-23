@@ -15,3 +15,10 @@ Another option is to use Electrooculography (EOG) sensors or dedicated eye track
 
 ## 4. Technology Selection
 The computer vision using EAR method is selected because it is affordable, contactless and suitable for real-time eye blink detection without requiring model training
+
+## Sources
+1. Pavithraa, & Kujani, T. (May, 2026). Eye Blink–based Morse Code Translation for Assistive Communication using a MobileNetV2–LSTM Framework. Eye Blink–based Morse Code Translation for Assistive Communication using a MobileNetV2–LSTM Framework. 2026 7th International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV), pp. 725-730. doi:10.1109/ICICV68925.2026.11554634
+2. Rosebrock, A. (2017). Eye blink detection with OpenCV, Python, and dlib. Retrieved from https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+3. Sushmitha, S., Prasad, H. B., & Sapna, V. M. (2025). Multi-layer Secure Authentication using Morse Code and Eye Blink Detection. 2025 9th International Symposium on Innovative Approaches in Smart Technologies (ISAS), pp.1-8. doi:10.1109/ISAS66241.2025.11101975
+4. Umale, G., Kulkarni, P., Tyagi, A., Korgaonkar, A., & Tikale, D. (2026). Intelligent Morse Code Translation Framework and Authentication.
+
