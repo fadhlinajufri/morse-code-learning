@@ -3,22 +3,20 @@ Individual with severe motor disabilities such as Amyotrophic Lateral Sclerosis 
 
 ## Users and Scope
 Main users and stakeholders
+•	Learners with severe motor impairment : Primary users who learn Morse code through blinks
+•	Caregivers and family members : Help set up the system and support practice 
+•	Supervisor : Assess the system’s functionality and accuracy 
+•	Developer : Builds, tests and maintains the system
 
-Group	| Role
+# In scope
+•	Detecting short and long blinks with a standard webcam, facial landmarks and the Eye Aspect Ratio (EAR)
+•	Lessons that introduce a few randomly selected letters (A–Z) or numbers (0–9)
+•	Blink-based exercises with immediate feedback
+•	Evaluation of blink detection accuracy, exercise accuracy, learning improvement and usability with selected users.
 
-Individual with limited hand mobility	- Primary users who learn Morse code through blinks
-Individual who wants to learn - Secondary users who wants to learn Morse code through blinks
-Project supervisor and evaluators - Assess the system’s functionality and accuracy
-Developer - Builds, tests and maintains the system
+# Out of scope
+•	Full text entry or general communication features
+•	Specialised hardware (eye trackers, EEG, wearable sensors)
+•	Symbols, punctuation and prosigns beyond A–Z and 0–9
+•	Clinical trials or medical-grade validation
 
-In scope
-- Detecting short and long blinks with a standard webcam, facial landmarks and the Eye Aspect Ratio (EAR)
-- Lessons that introduce a few randomly selected letters (A–Z) or numbers (0–9)
-- Blink-based exercises with immediate feedback
-- Evaluation
-
-Out of scope
-- Full text entry or general communication features
-- Specialised hardware (eye trackers, EEG, wearable sensors)
-- Symbols, punctuation and prosigns beyond A–Z and 0–9
-- Clinical trials or medical-grade validation
